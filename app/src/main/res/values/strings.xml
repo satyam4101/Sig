@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Signify</string>
+    <string name="title_activity_afterotp">afterotp</string>
+    <string name="toptext1">Please enter your number</string>
+    <string name="toptext2">Please verify the OTP</string>
+    <string name="full_name">Full name</string>
+    <string name="whats_your_name">Whats your name?</string>
+    <string name="phone_number">Phone number</string>
+    <string name="your_phone_number">Your Phone number!</string>
+    <string name="_6_otp">Enter the 6 digit OTP</string>
+    <string name="otp_resend">Didn\'t get the OTP? RESEND OTP.</string>
+    <string name="let_s_go">Let\'s go!</string>
+</resources>
