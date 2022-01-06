@@ -1,4 +1,4 @@
-# Sig
+# Signify
 A translator for the Challenged.
 We believe in the importance of bridging communities together, especially in places with large and thriving Deaf & signing communities. That inspired us to create the app, so our friends could reach new heights. 
 A software which could support people who cannot speak. Speech impaired people face a lot of setbacks. They have various ideas and the will to create a better society, but they do not get the support due to communication barriers.
